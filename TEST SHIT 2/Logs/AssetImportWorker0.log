@@ -136,3 +136,4 @@ Received Import Request.
 Start importing Assets/Sprite/testSprite.psd using Guid(a9508fd5b3301254e8c138d1d33251dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1c34f51295baec727def90b99a6709') in 0.132641 seconds 
   Import took 0.135816 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
